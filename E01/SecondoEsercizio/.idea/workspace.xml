@@ -31,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Programmazione2/Codice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../QuartoEsercizio" />
   </component>
   <component name="RunManager">
     <configuration name="Ackermann" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -56,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1648904838918</updated>
       <workItem from="1648904840085" duration="524000" />
+      <workItem from="1648907103913" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="E01 - Terminato il secondo esercizio (Ackermann)">
       <created>1648905334671</created>
