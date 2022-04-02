@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf0efa83-d58d-4345-992e-a3b3ab6e68f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SecondoEsercizio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ackermann.java" afterDir="false" />
-    </list>
+    <list default="true" id="cf0efa83-d58d-4345-992e-a3b3ab6e68f0" name="Changes" comment="E01 - Terminato il secondo esercizio (Ackermann)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,8 +55,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648904838918</updated>
-      <workItem from="1648904840085" duration="359000" />
+      <workItem from="1648904840085" duration="524000" />
     </task>
+    <task id="LOCAL-00001" summary="E01 - Terminato il secondo esercizio (Ackermann)">
+      <created>1648905334671</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648905334671</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,5 +80,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="E01 - Terminato il secondo esercizio (Ackermann)" />
+    <option name="LAST_COMMIT_MESSAGE" value="E01 - Terminato il secondo esercizio (Ackermann)" />
   </component>
 </project>
