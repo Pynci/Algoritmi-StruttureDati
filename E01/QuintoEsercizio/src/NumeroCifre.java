@@ -1,6 +1,6 @@
 public class NumeroCifre {
     public static void main(String[] args) {
-
+        System.out.println(count(25336));
     }
 
     static int count(int value){
@@ -12,9 +12,7 @@ public class NumeroCifre {
             return 1;
         }
         else{
-            //continua qui
+            return count(value/10) + 1;
         }
-
-        return 0;
     }
 }
