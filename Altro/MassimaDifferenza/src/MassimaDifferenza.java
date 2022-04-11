@@ -5,8 +5,8 @@ public class MassimaDifferenza {
     }
 
     static int maxDiff(int[] a, int left, int right){
-        if(right == left){
-            return 0;
+        if(right - left < 2){
+            return a[right] - a[left];
         }
         else{
             int middle = (left + right) / 2;
