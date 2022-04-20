@@ -1,6 +1,6 @@
 public class PotenzaDiCinque {
     public static void main(String[] args) {
-        System.out.println(incognita(1));
+        System.out.println(incognita(2));
     }
 
     static int incognita(int n){
