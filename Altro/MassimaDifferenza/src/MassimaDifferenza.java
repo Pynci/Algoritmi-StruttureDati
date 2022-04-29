@@ -1,6 +1,6 @@
 public class MassimaDifferenza {
     public static void main(String[] args) {
-        int a[] = {5,20,60,4,30,40,1,5};
+        int a[] = {5,20,60,4,30,40,1,5,6};
         System.out.println(maxDiff(a,0,a.length-1));
     }
 
